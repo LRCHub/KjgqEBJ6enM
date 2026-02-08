@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "獄詩",
+  "base_artist": "Azavana",
+  "createdAt": "2026-02-08T14:18:21.176954Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "獄詩",
+      "artist": "Azavana",
+      "has_synced": false,
+      "path": "select/pl_01_獄詩_Azavana.txt"
+    }
+  ]
+}
